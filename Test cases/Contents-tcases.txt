@@ -1,0 +1,17 @@
+File	         Test cases
+
+Prg01test.xlsx	 Blinking LEDs using TMR1 counter based delay
+Prg01atest.xslx  Turn ON LEDs using switches
+Prg01btest.xlsx  Turn ON buzzer using switches
+Prg02test.xlsx   Timer1 Interrupts
+Prg03test.xlsx   ADC
+Prg04test.xlsx   PWM
+Prg05test.xlsx   Motor Direction
+Prg06test.xlsx   Motor Position
+Prg07test.xlsx   UART
+Prg08test.xlsx   SPI
+Prg09test.xlsx   I2C
+                 CAN
+                 Jetson Xavier
+
+
